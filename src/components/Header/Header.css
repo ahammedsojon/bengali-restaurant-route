@@ -1,0 +1,13 @@
+.brand-logo{
+    text-decoration: none;
+    color: #9b9d9e;
+}
+.menu-item{
+    text-decoration: none;
+    color: #9b9d9e;
+    margin: 0 10px;
+}
+.menu-item:hover{
+    text-decoration: none;
+    color: #e4e4e4;
+}

@@ -20,7 +20,7 @@ const Food = (props) => {
                     <Link to={url}>Details</Link>
                     <br />
                     <Link to={url}>
-                        <button className="btn btn-primary mt-2">Details</button>
+                        <button className="btn btn-danger mt-2">Details</button>
                     </Link>
                     <button
                         onClick={handleFoodDetails}

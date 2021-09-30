@@ -5,9 +5,9 @@ const Home = () => {
     return (
         <div className="home">
             <div>
-                <h2>Welcome to MealDb Food Restaurant...</h2>
+                <h2>Welcome to Bengali Food Restaurant...</h2>
                 <Link to="/restaurant">
-                    <button className="btn btn-danger">See food items</button>
+                    <button className="btn btn-danger mt-3">See food items</button>
                 </Link>
             </div>
         </div>

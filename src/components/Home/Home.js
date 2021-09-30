@@ -7,7 +7,7 @@ const Home = () => {
             <div>
                 <h2>Welcome to MealDb Food Restaurant...</h2>
                 <Link to="/restaurant">
-                    <button className="btn btn-primary">See food items</button>
+                    <button className="btn btn-danger">See food items</button>
                 </Link>
             </div>
         </div>
